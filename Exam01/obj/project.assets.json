@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macintosh/Desktop/Exams001/Exams001.csproj",
+      "projectUniqueName": "/Users/macintosh/Desktop/Exams001/Exam01/Exams001.csproj",
       "projectName": "Exams001",
-      "projectPath": "/Users/macintosh/Desktop/Exams001/Exams001.csproj",
+      "projectPath": "/Users/macintosh/Desktop/Exams001/Exam01/Exams001.csproj",
       "packagesPath": "/Users/macintosh/.nuget/packages/",
-      "outputPath": "/Users/macintosh/Desktop/Exams001/obj/",
+      "outputPath": "/Users/macintosh/Desktop/Exams001/Exam01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macintosh/.nuget/NuGet/NuGet.Config"
