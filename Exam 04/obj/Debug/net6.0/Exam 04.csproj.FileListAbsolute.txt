@@ -1,5 +1,0 @@
-/Users/macintosh/Desktop/Exams001/Exam 04/obj/Debug/net6.0/Exam 04.csproj.AssemblyReference.cache
-/Users/macintosh/Desktop/Exams001/Exam 04/obj/Debug/net6.0/Exam 04.GeneratedMSBuildEditorConfig.editorconfig
-/Users/macintosh/Desktop/Exams001/Exam 04/obj/Debug/net6.0/Exam 04.AssemblyInfoInputs.cache
-/Users/macintosh/Desktop/Exams001/Exam 04/obj/Debug/net6.0/Exam 04.AssemblyInfo.cs
-/Users/macintosh/Desktop/Exams001/Exam 04/obj/Debug/net6.0/Exam 04.csproj.CoreCompileInputs.cache
